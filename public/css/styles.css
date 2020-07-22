@@ -1,0 +1,36 @@
+body{
+margin: 0%;
+
+}
+
+.cust_navbar{
+  padding: .5%;
+  background-color: #f5f1da !important;
+}
+
+.cust_body_padding{
+padding: 3% 15%;
+
+}
+.cust_body_next{
+padding: .5% 15%;
+
+}
+.band_tag{
+font-family: 'Josefin Slab', serif;
+}
+
+.cust_nav_item{
+font-family: 'Quicksand', sans-serif;
+font-size: 1.2rem;
+}
+.footer_class{
+font-size: 1rem;
+ text-align: center;
+ color: blue;
+ font-family: 'Quicksand', sans-serif;
+}
+.cust-addblok{
+ padding: 3% 25%;
+
+}
